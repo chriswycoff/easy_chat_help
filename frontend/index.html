@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        #chatbot-container {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            width: 300px;
+            height: 400px;
+            z-index: 1000;
+            opacity: 0;
+            transform: translateY(100px);
+            transition: width 0.5s, height 0.5s, opacity 0.5s, transform 0.5s;
+        }
+        #chatbot-container.open {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        #chatbot-container.full {
+            width: 100%;
+            height: 100%;
+        }
+        #chatbot-widget {
+            width: 100%;
+            height: 100%;
+        }
+        #expand-button {
+            position: fixed;
+            bottom: 60px;
+            right: 300px;
+            z-index: 1001;
+            display: none;
+        }
+
+        #chatbot-container.full #expand-button {
+            top: 40px;
+            right: 40px;
+        }
+        #chatbot-button {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            z-index: 1001;
+        }
+
+        .cool-button{
+            background-color: #3b548a; /* Green color */
+    border: none;
+    color: white; /* White text */
+    padding: 15px 32px; /* Some padding */
+    text-align: center; /* Centered text */
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.5s; /* 0.5 second transition */
+    cursor: pointer; /* Add a hand cursor on hover over the button */
+    border-radius: 4px; /* Rounded corners */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); /* Add shadows for 3D look */
+
+        }
+
+        iframe {
+    background-color: transparent;
+}
+    </style>
+
+    <title>website</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+        }
+        header {
+            background-color: #e6e6fa;
+            text-align: center;
+            padding: 20px;
+            border-bottom: 2px solid #deb887;
+        }
+        h1 {
+            color: #483d8b;
+        }
+        main {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+        p {
+            color: #4682b4;
+            line-height: 1.6;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- begin general body -->
+    <header>
+        <h1>website</h1>
+    </header>
+    <main>
+        <img width="70px" src="unicorn1.png" alt="An elegant unicorn">
+        <p>
+           website 
+        </p>
+        <p>
+            website 
+        </p>
+    </main>
+    <script src="chatbot_loader.js"></script>
+</body>
+</html>

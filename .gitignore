@@ -1,0 +1,16 @@
+venv
+.env
+resume.py
+__pycache__
+vscode/
+.vscode
+about.txt
+info_files/
+info_files
+*pkl
+commands.txt
+*.bak
+*/backups/*
+*key.json
+/chris
+chris

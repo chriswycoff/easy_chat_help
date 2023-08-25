@@ -1,0 +1,62 @@
+Chris Wycoff chriswywy@gmail.com | prochris.com
+SKILLS
+System Architect
+API design, microservices, scalability, pipelines
+AI engineering and Data Science
+Prompt Engineering, GPT-3/4, ML
+Web and Application Design
+React, CSS, UI/UX, Image Editing GenAI
+Cloud & DevOps
+GCP, Firebase, AWS, Docker
+Cryptography & Blockchain
+Solidity, Web3, JSON-RPC, ECDSA, ZKSNARK
+PROGRAMMING
+Over 50000 lines:
+Python, JavaScript
+Over 10000 lines:
+C, Java, Solidity
+Over 5000 lines:
+PHP, C++, Objective-C
+Familiar:
+LATEX, Haskell, GO, Swift, R, SML
+ EDUCATION
+UNIVERSITY OF OREGON
+B.S. Computer Science
+Jun 2021 | Eugene, OR Cum. GPA: 3.55 / 4.0 Major GPA: 3.99 / 4.0
+SPOKEN LANGUAGES
+English | Spanish
+COURSEWORK
+COMPUTER SCIENCE (MAJOR)
+EXPERIENCE
+ADDITION | Python Engineer
+Aug 2022 - Present | New York (Remote)
+• Technical Lead overseeing application roll-outs for major brand clients
+• Engineered and launched state-of-the-art AI solutions
+SOMBRA | Software Engineer
+Jan 2022 - Aug 2022 | New Jersey (Remote)
+• Responsible for cross-blockchain applications and services • Maintained cloud infrastructure and created support scripts
+ELEMINTS | Software Engineer Jun 2021 - May 2022 | Worldwide
+• Lead software team to create, test and launch blockchain apps • Built complex smart contract structures and UI/UX consoles
+AIR-WEIGH | Software Engineer Intern June 2020 - Feb 2021 | Eugene, OR
+• Created mobile and web applications that interfaced with IOT devices
+Data Structures Algorithms
+Operating Systems Functional Programming Databases
+Applied Cryptography
+Secure Software Development Computer Graphics Computer Organization
+BUSINESS (MINOR)
+Business Communications Management
+Marketing
+Micro/Macro Economics Accounting
+Fiance
+BIOLOGY (MINOR)
+Cells, Organisms, Populations Biological Mechanisms Sensory Physiology
+UNIVERSITY OF OREGON
+2019 - 2020 | Eugene, OR
+| Learning Assistant
+• Taught lab sessions and held office hours • Debugged others' code in real time
+WORLDSERIESOFPOKER |PokerDealer Jan 2012 - May 2016 | Nationwide
+• Four-time dealer at the World Series of Poker in Las Vegas
+AWARDS
+2021 Best Art Tool
+2020 Exceptional Academics
+Eugene Computer Graphics Competition Deans List Honors

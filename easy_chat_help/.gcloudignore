@@ -1,0 +1,13 @@
+!.env
+!info_files/
+!info_files
+!embeddings/all_embeddings_df.pkl
+!embeddings/all_embeddings.pkl
+!storage-key.json
+venv
+__pycache__
+vscode/
+.vscode
+.vscode
+*.bak
+*/backups/*
